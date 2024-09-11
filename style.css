@@ -97,7 +97,7 @@ header{
     width: 100%;
     min-height: 100vh;
     position: relative;
-    background: url(img/tryback3.jpg);
+    background: url(img/Car Website – 1@2x.png);
     background-repeat: no-repeat;
     background-position: center right;
     background-size: cover;
@@ -203,15 +203,11 @@ header{
 }
 .ride-container .box .bx:hover, 
 .ride-container .bx .bxs-calendar-star {
-    /*Doubtful*/
+   
     background: var(--main-color);
     color: #fff;
 }
 .services-container {
-   /* display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, auto));
-    gap: 1rem;
-    margin-top: 2rem;*/
 
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Set 3 columns */
